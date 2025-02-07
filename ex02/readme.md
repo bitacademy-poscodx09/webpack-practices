@@ -13,7 +13,7 @@
 
   "scripts": {
     "start": "node dev-server",
-    "build": "npx webpack ./src/index.js -o ./public"
+    "build": "npx webpack"
   }
 
 
